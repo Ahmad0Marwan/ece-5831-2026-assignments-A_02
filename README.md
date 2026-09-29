@@ -12,5 +12,5 @@ For this assignment I went through the NumPy section of the CS231n Python tutori
 ## Notes
 
 - Done in Jupyter in VS Code, not Colab.
-- Python 3 via Anaconda, env ece-5831-2026, NumPy 2.x.
+- Python 3 via Anaconda, env ece-5831-2026, NumPy
 - To rerun: open the notebook, select the ece-5831-2026 kernel, Run All. Nothing needs to be installed beyond NumPy.
